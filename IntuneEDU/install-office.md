@@ -27,7 +27,7 @@ ms.lasthandoff: 07/05/2017
 
 教育版的 Intune 允许你分配[web 应用](how-to-add-apps.md#add-web-apps)或[桌面版本](how-to-add-apps.md#add-desktop-apps)的 Microsoft Office 应用。
 
-期间[Express 配置](what-is-express-configuration.md)，Office 桌面应用程序将始终显示为称为"Office 365。"的单个应用程序 如果你选择它，你将向你的用户分配桌面版本的 Word、 Excel、 PowerPoint、 OneNote 和 Skype for Business。
+期间[Express 配置](what-is-express-configuration.md)，Office 桌面应用程序将始终显示名称为"Office 365。"的单个应用程序 如果你选择它，你将向你的用户分配桌面版本的 Word、 Excel、 PowerPoint、 OneNote 和 Skype for Business。
 
 这是使用[单击以运行](https://technet.microsoft.com/library/jj219427.aspx)、 Microsoft 流式处理技术，减少了在你的设备上安装 Office 所需的时间。
 
